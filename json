@@ -1,0 +1,82 @@
+[
+         {
+              ¨key¨:1,
+              ¨marca¨:chevrolet,
+              ¨modelo¨:2010,
+              ¨color¨:rojo,
+              ¨tipo¨:automovil,
+              ¨linea¨:spark
+         },
+         {    
+              ¨key¨:2,
+              ¨marca¨:renault,
+              ¨modelo¨:2014,
+              ¨color¨:gris,
+              ¨tipo¨:automovil,
+              ¨linea¨: duster 
+         },
+         {
+              ¨key¨:3,
+              ¨marca¨:toyota,
+              ¨modelo¨:2018,
+              ¨color¨:negro,
+              ¨tipo¨:camioneta,
+              ¨linea¨: prado sumo
+         },
+         {
+              ¨key¨:4,
+              ¨marca¨:suzuki,
+              ¨modelo¨:2008,
+              ¨color¨:verde,
+              ¨tipo¨:camioneta,
+              ¨linea¨: vitara
+         },
+         {
+              ¨key¨:5,
+              ¨marca¨:honda,
+              ¨modelo¨:2013,
+              ¨color¨:azul,
+              ¨tipo¨:automovil,
+              ¨linea¨: honda fit
+         },
+         {
+              ¨key¨:6,
+              ¨marca¨:chevrolet,
+              ¨modelo¨:2015,
+              ¨color¨:negro,
+              ¨tipo¨:automovil,
+              ¨linea¨: aveo
+         },
+         {
+              ¨key¨:7,
+              ¨marca¨:renault,
+              ¨modelo¨:2018,
+              ¨color¨:gris,
+              ¨tipo¨:automovil,
+              ¨linea¨: sandero
+         },
+         {
+              ¨key¨:8,
+              ¨marca¨:ford,
+              ¨modelo¨:2020,
+              ¨color¨:blanco,
+              ¨tipo¨:camioneta,
+              ¨linea¨: ecosport
+         },
+         {
+              ¨key¨:9,
+              ¨marca¨:toyota,
+              ¨modelo¨:2019,
+              ¨color¨:gris,
+              ¨tipo¨:camioneta,
+              ¨linea¨: hilux
+         },
+         {
+              ¨key¨:10,
+              ¨marca¨:suziki
+              ¨modelo¨:2020
+              ¨color¨:azul,
+              ¨tipo¨:camioneta,
+              ¨linea¨: S-cross
+         },
+]
