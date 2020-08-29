@@ -1,2 +1,1 @@
 # BasesDatos
-![](imagen/a.png)
